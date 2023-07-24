@@ -1,1 +1,1 @@
-# Fire_detection_project
+In this project , a fire detection alarm is initiated on detecting fire
